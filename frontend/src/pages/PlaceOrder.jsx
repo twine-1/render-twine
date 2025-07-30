@@ -290,7 +290,7 @@ const PlaceOrder = () => {
               ></p>
               <p className="text-gray-500 text-sm font-medium mx-4"></p>
               <img
-                className="h-10 w-24 mx-4"
+                className="h-9 w-24 mx-4"
                 src={assets.BKash_Logo}
                 alt="BKash Payment"
               />
